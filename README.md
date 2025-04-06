@@ -1,4 +1,4 @@
-# 💊 MediRush - Smart Medical Consultation Platform
+# 💊 Medireach - Smart Medical Consultation Platform
 
 ![MediRush Banner](https://user-images.githubusercontent.com/yourusername/banner-placeholder.gif)
 
